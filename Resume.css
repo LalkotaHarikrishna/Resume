@@ -1,0 +1,42 @@
+* {
+
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+   
+
+}
+
+#name {
+
+    text-align: center;
+    color: blue;
+    margin: 50px;
+
+}
+
+#profile {
+    width: 100px;
+    height: 80px;
+    border-radius: 10px;
+    border: 5px solid rgb(125, 113, 113);
+    margin-bottom: 1%;
+    margin-left: 90%;
+    position: relative;
+
+}
+
+#resume {
+    text-align:center ;
+    color: rgb(209, 27, 3);
+    
+}
+
+.mypage {
+    margin-top: 40px;
+    
+}
+
+.mypage1 {
+border-right: 2px solid rgb(183, 174, 174);
+}
